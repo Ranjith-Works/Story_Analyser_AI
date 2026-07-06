@@ -1,0 +1,13 @@
+venv/
+.env
+__pycache__/
+*.pyc
+
+uploads/
+vectorstore/
+
+.ipynb_checkpoints/
+
+# Assignment deliverables (large binaries)
+*.pdf
+*.pptx
