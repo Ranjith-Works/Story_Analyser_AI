@@ -66,6 +66,3 @@ streamlit run app.py
     ├── chat.py  character.py  timeline.py
     ├── summary.py  quality.py  ending.py
 ```
-## I am doing this edit to check whetehr Jenkins is able to identify my changes
-
-oajdvnadnvjw vojw vojwq cvj 
